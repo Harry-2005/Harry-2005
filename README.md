@@ -2,14 +2,16 @@
 </br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=5A6C9C&center=true&vCenter=true&width=435&lines=Hi!+I+am+Harshit;I+build%2C+break%2C+and+rebuild+things;Proceed+with+curiosity)](https://git.io/typing-svg)
-<img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
-<br><br>
 
-![](https://github-readme-stats.vercel.app/api?username=Harry-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Harry-2005&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=Harry-2005)
-
+<div>
+  <img align="right" src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7b282ec6-fcc3-4600-90a7-2c3140549f58" width="400">
+  <br><br>
+  
+  ![](https://github-readme-stats.vercel.app/api?username=Harry-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+  ![](https://nirzak-streak-stats.vercel.app/?user=Harry-2005&theme=dark&hide_border=false)<br/>
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Harry-2005&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  ![](https://github-readme-stats.vercel.app/api?username=Harry-2005)
+</div>
 
 [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Harry-2005&theme=github-compact&custom_title=My%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
